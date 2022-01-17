@@ -11,9 +11,11 @@
 
 
 ## Project Files:
-### BRefProject.R
-R script for project. Scrapes data from online websites, cleans and analyzes data, creates plots
-### BRefProject.RData
-Data set created by BRefProject.R. Included here because running the code in the R script to create this data set will take hours
-### Presentation.pptx
-PowerPoint Presentation explaining project and discussing results
+### kaggle_project_final_rcode.R
+R script for project. Builds MLR models using training set, creates new variables, performs cross validation, predicts salaries for testing set
+### NBATrain.csv
+Training data set provided by Kaggle competition
+### NBATestNoY.csv
+Testing data set provided by Kaggle competition
+### Predicitng NBA Players Salaries Using R.pdf
+Research paper detailing project. Includes descriptions of variables, different versions of the model, my thought process, analyses of the models, results, discussion, diagnostics, and conclusions.
